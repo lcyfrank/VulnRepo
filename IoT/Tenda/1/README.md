@@ -27,7 +27,7 @@ response = requests.get(url)
 
 ## Timeline
 
-TBD
+* 2022-05-05: Report to CVE & CNVD;
 
 ## Acknowledge
 
