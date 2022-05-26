@@ -27,6 +27,7 @@ response = requests.get(url)
 ## Timeline
 
 * 2022-05-06: Report to CVE & CNVD;
+* 2022-05-26: CVE ID assigned (CVE-2022-30473)
 
 ## Acknowledge
 
