@@ -33,4 +33,4 @@ response = requests.get(url)
 
 ## Acknowledge
 
-Credit to [@peanuts](https://github.com/peanuts62), [@Minghao Lin](https://github.com/MinghaoLin2000) and [@cylin](https://github.com/lcyfrank) from IIE, CAS.
+Credit to [@peanuts](https://github.com/peanuts62), [@Minghao Lin](https://github.com/MinghaoLin2000) and [@cylin](https://github.com/lcyfrank).
